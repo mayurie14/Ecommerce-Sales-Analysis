@@ -27,7 +27,7 @@ The interactive Tableau dashboard includes:
 - Product Returns Overview
 
 📁 File:  
-`tableau/Ecommerce_Sales_Analysis_Tableau.twbx`
+Ecommerce_Performance_Analytics_Dashboard.twbx
 
 ## 🚀 How to Run Python Analysis
 ```bash
